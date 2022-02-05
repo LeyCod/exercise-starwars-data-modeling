@@ -1,4 +1,4 @@
-# [![4Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo")](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo") Python - SQL; StarWars blog database
+# [![4Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo")](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo") Python - SQL / StarWars blog database
 
 ## To-Dos:
 
